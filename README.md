@@ -2,7 +2,7 @@
 
 The Circle connects people through the daring use of Artificial Intelligence in a radical immersive and interactive experience.
 
-![render][The Circle interactive experience.png]
+![render](The Circle interactive experience.png)
 
 ## Setup
 This project runs on `python3`, which comes build in on Mac and most linux distros, but requires installation on Windows.
